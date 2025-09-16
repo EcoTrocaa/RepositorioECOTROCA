@@ -2,7 +2,7 @@
 Projeto Disciplina: Requisitos de Software
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio.
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw
 
 1. Introdução
 1.1. Nome do Grupo
