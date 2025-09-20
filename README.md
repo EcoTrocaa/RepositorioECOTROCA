@@ -13,7 +13,7 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 
 1.2. Nome do Sistema
 ----------------------------------------------------------
-Indicar o nome do software proposto
+Eco Troca
 
 1.3. Propósito do Sistema
 ----------------------------------------------------------
@@ -23,7 +23,7 @@ Incentivar o publico e donos de empresas a realizar reciclagem de forma conscien
 
 1.2. Público Alvo
 ------------------------------------------------------------
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... <descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>
+Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos.
 
 1.3. Descrição dos usuários
 ------------------------------------------------------------
@@ -49,7 +49,7 @@ Cenário: Depois
 
 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>
 
-2. Documentos gerais no repositório
+2. Documentos gerais no repositório (Aula 19/09/25)
 2.1. Requisitos Funcionais
 
 <Link, imagem, arquivo com os requisitos funcionais.>
