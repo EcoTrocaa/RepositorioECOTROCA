@@ -55,12 +55,21 @@ Cenário: Depois
 <Link, imagem, arquivo com os requisitos funcionais.>
 
 ***2.2. Requisitos Não Funcionais***
---------------------------------------------------------------------------------
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+## Requisitos Não Funcionais
+
+| Identificador | Descrição                                                                                      | Categoria     | Escopo  | Prioridade |
+|---------------|------------------------------------------------------------------------------------------------|---------------|---------|------------|
+| RNF01         | O sistema deve estar disponível 99,5% do tempo                                                 | Confiabilidade| Sistema | Alta       |
+| RNF02         | O sistema deve ser compatível com Android e iOS                                                | Portabilidade | Sistema | Alta       |
+| RNF03         | O app deve ajustar-se automaticamente a diferentes tamanhos de tela                            | Portabilidade | Sistema | Média      |
+| RNF04         | O sistema deve responder as requisições do usuário em até 2s em 95% das operações              | Eficiência    | Sistema | Alta       |
+| RNF05         | Notificações devem ser enviadas até 1 minuto após algum evento relevante                       | Eficiência    | Sistema | Média      |
+| RNF06         | O carregamento dos mapas de pontos de coleta deve ocorrer em até 10s                           | Eficiência    | Sistema | Alta       |
+| RNF07         | O sistema deve suportar ao menos 10 mil usuários simultâneos                                   | Escalabilidade| Sistema | Alta       |
+| RNF08         | Todo tráfego de dados deve ser criptografado usando HTTPS                                      | Segurança     | Sistema | Alta       |
+| RNF09         | Autenticação deve suportar login por redes sociais como Gmail, Facebook                        | Segurança     | Sistema | Alta       |
+| RNF10         | A interface deve ser intuitiva, permitindo localizar um ponto de coleta em no máximo 4 cliques | Usabilidade   | Sistema | Alta       |
+
 
 2.3. Perguntas
 
