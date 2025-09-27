@@ -56,7 +56,11 @@ Cenário: Depois
 
 2.2. Requisitos Não Funcionais
 
-<Link, imagem, arquivo com os requisitos não funcionais.>
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 2.3. Perguntas
 
