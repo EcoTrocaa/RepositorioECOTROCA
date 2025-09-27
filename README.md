@@ -54,8 +54,8 @@ Cenário: Depois
 
 <Link, imagem, arquivo com os requisitos funcionais.>
 
-2.2. Requisitos Não Funcionais
-
+***2.2. Requisitos Não Funcionais***
+--------------------------------------------------------------------------------
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
