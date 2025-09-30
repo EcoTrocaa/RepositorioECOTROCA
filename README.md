@@ -50,6 +50,7 @@ Cenário: Depois
 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>
 
 2. Documentos gerais no repositório (Aula 19/09/25)
+
 **2.1. Requisitos Funcionais**
 ------------------------------------------------------------
 <Link, imagem, arquivo com os requisitos funcionais.>
