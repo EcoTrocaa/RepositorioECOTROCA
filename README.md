@@ -50,8 +50,8 @@ Cenário: Depois
 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>
 
 2. Documentos gerais no repositório (Aula 19/09/25)
-2.1. Requisitos Funcionais
-
+**2.1. Requisitos Funcionais**
+------------------------------------------------------------
 <Link, imagem, arquivo com os requisitos funcionais.>
 
 ***2.2. Requisitos Não Funcionais***
@@ -71,31 +71,32 @@ Cenário: Depois
 | RNF10         | A interface deve ser intuitiva, permitindo localizar um ponto de coleta em no máximo 4 cliques | Usabilidade   | Sistema | Alta       |
 
 
-2.3. Perguntas
-
+**2.3. Perguntas**
+------------------------------------------------------------
 <Arquivo com as perguntas realizadas na entrevista .>
 
-2.4. Entrevista
-
+**2.4. Entrevista**
+------------------------------------------------------------
 <Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>
 
-2.5. Histórias do Usuário
-
+**2.5. Histórias do Usuário**
+------------------------------------------------------------
 <Imagem, arquivo (PDF), link com as Histórias de Usuário.>
 
-2.6. Diagramas de Caso de Uso e Especificações
-
+**2.6. Diagramas de Caso de Uso e Especificações**
+------------------------------------------------------------
 <Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>
 
-2.7. Diagramas de Atividades
-
+**2.7. Diagramas de Atividades**
+------------------------------------------------------------
 <Imagem, arquivo (PDF), link com Diagrama de Atividades.>
 
-2.8. Protótipos
-
+**2.8. Protótipos**
+------------------------------------------------------------
 <Imagem, arquivo (PDF), link com Protótipo.>
 
-Referências
+**Referências**
+------------------------------------------------------------
 <Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>
 
 [1] “Glossário da USina”, <id_doc glossário>, Versão <versão>. Localização: <localização>.
