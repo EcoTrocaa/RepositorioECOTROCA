@@ -56,8 +56,7 @@ Cenário: Depois
 <Link, imagem, arquivo com os requisitos funcionais.>
 
 ***2.2. Requisitos Não Funcionais***
-## Requisitos Não Funcionais
-
+------------------------------------------------------------
 | Identificador | Descrição                                                                                      | Categoria     | Escopo  | Prioridade |
 |---------------|------------------------------------------------------------------------------------------------|---------------|---------|------------|
 | RNF01         | O sistema deve estar disponível 99,5% do tempo                                                 | Confiabilidade| Sistema | Alta       |
