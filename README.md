@@ -1,4 +1,4 @@
-# ECOTROCA
+ # ♻️🌱🌍 **ECOTROCA** 🌍🌱♻️
 
 > Projeto Disciplina: Requisitos de Software
 > UTFPR - Campus Cornélio Procópio.
@@ -13,41 +13,47 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 
 1.2. Nome do Sistema
 ----------------------------------------------------------
-Eco Troca
+♻️EcoTroca
 
 1.3. Propósito do Sistema
 ----------------------------------------------------------
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela EcoTroca, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+📌Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela EcoTroca, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
 Incentivar o publico e donos de empresas a realizar reciclagem de forma consciente, com o uso de um sistema de troca de recompensas pelas embalagens recicladas em pontos de coleta específicos
 
 1.2. Público Alvo
 ------------------------------------------------------------
-Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos.
+👉Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos.
 
 1.3. Descrição dos usuários
 ------------------------------------------------------------
 <Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>
 
-Personas:
+**Personas**  
+👉 <Imagem, arquivo (PDF), link com as Personas.>  
 
-<Imagem, arquivo (PDF), link com as Personas.>
+---
 
-Análise da situação atual: antes da introdução de sua solução
+**Análise da situação atual (antes da solução):**  
+✔️ O que as pessoas fazem?  
+✔️ Quais os artefatos envolvidos?  
+✔️ O que elas precisam saber?  
 
-1. O que as pessoas fazem? 2. Quais os artefatos envolvidos? 3. O que elas precisam saber?
+---
 
-Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:
+**Análise das tarefas (depois da solução):**  
+✔️ O que as pessoas fazem?  
+✔️ Quais os artefatos envolvidos?  
+✔️ O que elas precisam saber?  
 
-1. O que as pessoas fazem? 2. Quais os artefatos envolvidos? 3. O que elas precisam saber?
+---
 
-Cenário: Antes
+📖 **Cenário: Antes**  
+👉 <Preencher com o cenário idealizado antes da aplicação do seu sistema.>  
 
-<Preencher com o cenário idealizado antes da aplicação do seu sistema.>
+📖 **Cenário: Depois**  
+👉 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>  
 
-Cenário: Depois
-
-<Preencher com o cenário idealizado depois da aplicação do seu sistema.>
 
 2. Documentos gerais no repositório (Aula 19/09/25)
 
