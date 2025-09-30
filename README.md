@@ -30,7 +30,9 @@ Incentivar o publico e donos de empresas a realizar reciclagem de forma conscien
 <Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>
 
 **Personas**  
-👉 <Imagem, arquivo (PDF), link com as Personas.>  
+👉 <img width="1024" height="1024" alt="Gemini_Generated_Image_2hby0v2hby0v2hby" src="https://github.com/user-attachments/assets/c7fbfb8f-2974-4fae-9912-a1e164a133e8" />
+
+👉 <img width="1024" height="1024" alt="Gemini_Generated_Image_d90db5d90db5d90d" src="https://github.com/user-attachments/assets/6d5e566e-fc3f-40b0-9855-6cf41c428886" />
 
 ---
 
