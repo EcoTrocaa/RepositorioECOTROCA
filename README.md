@@ -53,7 +53,19 @@ Cenário: Depois
 
 **2.1. Requisitos Funcionais**
 ------------------------------------------------------------
-<Link, imagem, arquivo com os requisitos funcionais.>
+| Identificador | Descrição                                                                                               | Categoria             | Escopo     | Prioridade |
+|---------------|---------------------------------------------------------------------------------------------------------|-----------------------|------------|------------|
+| RF01          | O sistema deve permitir criar conta com nome, e-mail e senha ou login social (Google/Facebook).         | Cadastro/Autenticação | Sistema    | Alta       |
+| RF02          | O usuário deve visualizar no mapa pontos de coleta próximos, com endereço, horário e materiais aceitos. | Mapa/Localização      | Sistema    | Alta       |
+| RF03          | O sistema deve permitir registrar entrega de materiais em pontos de coleta para gerar créditos.         | Créditos              | Sistema    | Alta       |
+| RF04          | O sistema deve calcular automaticamente créditos gerados pelo tipo e quantidade de material.            | Créditos              | Sistema    | Alta       |
+| RF05          | O usuário deve acompanhar o saldo de créditos em tempo real.                                            | Créditos              | Sistema    | Alta       |
+| RF06          | O sistema deve permitir a troca de créditos por recompensas, como vouchers ou doações.                  | Recompensas           | Sistema    | Alta       |
+| RF07          | O sistema deve enviar notificações push sobre pontos de coleta próximos ou promoções.                   | Notificações          | Sistema    | Média      |
+| RF08          | Administradores devem cadastrar e atualizar pontos de coleta, com endereço, horários e materiais.       | Administração         | Backoffice | Alta       |
+| RF09          | O sistema deve exibir um histórico de entregas e trocas de créditos.                                    | Histórico             | Sistema    | Alta       |
+| RF10          | O sistema deve integrar com parceiros para validar créditos ou emitir vouchers.                         | Integração            | Sistema    | Alta       |
+
 
 ***2.2. Requisitos Não Funcionais***
 ------------------------------------------------------------
