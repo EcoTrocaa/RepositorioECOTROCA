@@ -17,17 +17,18 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 
 1.3. Propósito do Sistema
 ----------------------------------------------------------
-📌Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela EcoTroca, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-Incentivar o publico e donos de empresas a realizar reciclagem de forma consciente, com o uso de um sistema de troca de recompensas pelas embalagens recicladas em pontos de coleta específicos
+📌Incentivar o publico e donos de empresas a realizar reciclagem de forma consciente, com o uso de um sistema de troca de recompensas pelas embalagens recicladas em pontos de coleta especificos
 
 1.2. Público Alvo
 ------------------------------------------------------------
-👉Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos.
+👉Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos
 
 1.3. Descrição dos usuários
 ------------------------------------------------------------
-<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>
+Cidadão (Reciclador):
+Este é o usuário final primário, a pessoa física que realiza a separação de seu lixo reciclável e o transporta até um Ponto de Coleta credenciado. Sua principal motivação é ganhar recompensas.
+Parceiro (Estabelecimento de Troca):
+Este grupo é composto por comércios, lojas, ou organizações não governamentais (ONGs) que participam da rede de recompensas. O papel do Parceiro é aceitar e validar os créditos acumulados pelo Cidadão em troca de seus produtos, serviços ou doações. 
 
 **Personas**  
 👉
