@@ -30,9 +30,9 @@ Incentivar o publico e donos de empresas a realizar reciclagem de forma conscien
 <Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>
 
 **Personas**  
-👉 <img width="1024" height="1024" alt="Gemini_Generated_Image_2hby0v2hby0v2hby" src="https://github.com/user-attachments/assets/c7fbfb8f-2974-4fae-9912-a1e164a133e8" />
+👉
 
-👉 <img width="1024" height="1024" alt="Gemini_Generated_Image_d90db5d90db5d90d" src="https://github.com/user-attachments/assets/6d5e566e-fc3f-40b0-9855-6cf41c428886" />
+👉 
 
 ---
 
@@ -61,34 +61,34 @@ Incentivar o publico e donos de empresas a realizar reciclagem de forma conscien
 
 **2.1. Requisitos Funcionais**
 ------------------------------------------------------------
-| Identificador | Descrição                                                                                               | Categoria             | Escopo     | Prioridade |
-|---------------|---------------------------------------------------------------------------------------------------------|-----------------------|------------|------------|
-| RF01          | O sistema deve permitir criar conta com nome, e-mail e senha ou login social (Google/Facebook).         | Cadastro/Autenticação | Sistema    | Alta       |
-| RF02          | O usuário deve visualizar no mapa pontos de coleta próximos, com endereço, horário e materiais aceitos. | Mapa/Localização      | Sistema    | Alta       |
-| RF03          | O sistema deve permitir registrar entrega de materiais em pontos de coleta para gerar créditos.         | Créditos              | Sistema    | Alta       |
-| RF04          | O sistema deve calcular automaticamente créditos gerados pelo tipo e quantidade de material.            | Créditos              | Sistema    | Alta       |
-| RF05          | O usuário deve acompanhar o saldo de créditos em tempo real.                                            | Créditos              | Sistema    | Alta       |
-| RF06          | O sistema deve permitir a troca de créditos por recompensas, como vouchers ou doações.                  | Recompensas           | Sistema    | Alta       |
-| RF07          | O sistema deve enviar notificações push sobre pontos de coleta próximos ou promoções.                   | Notificações          | Sistema    | Média      |
-| RF08          | Administradores devem cadastrar e atualizar pontos de coleta, com endereço, horários e materiais.       | Administração         | Backoffice | Alta       |
-| RF09          | O sistema deve exibir um histórico de entregas e trocas de créditos.                                    | Histórico             | Sistema    | Alta       |
-| RF10          | O sistema deve integrar com parceiros para validar créditos ou emitir vouchers.                         | Integração            | Sistema    | Alta       |
+| Identificador | Descrição                                                                                               | Categoria             | Escopo     | Prioridade | Prioridade   | Relacional   |
+|---------------|---------------------------------------------------------------------------------------------------------|-----------------------|------------|------------|--------------|--------------|
+| RF01          | O sistema deve permitir criar conta com nome, e-mail e senha ou login social (Google/Facebook).         | Cadastro/Autenticação | Sistema    | M          | Alta         | RNF09        |
+| RF02          | O usuário deve visualizar no mapa pontos de coleta próximos, com endereço, horário e materiais aceitos. | Mapa/Localização      | Sistema    | M          | Alta         | RNF06        |
+| RF03          | O sistema deve permitir registrar entrega de materiais em pontos de coleta para gerar créditos.         | Créditos              | Sistema    | M          | Alta         | RNF04        |
+| RF04          | O sistema deve calcular automaticamente créditos gerados pelo tipo e quantidade de material.            | Créditos              | Sistema    | M          | Alta         | RNF04        |
+| RF05          | O usuário deve acompanhar o saldo de créditos em tempo real.                                            | Créditos              | Sistema    | M          | Alta         | RNF04        |
+| RF06          | O sistema deve permitir a troca de créditos por recompensas, como vouchers ou doações.                  | Recompensas           | Sistema    | M          | Alta         | RNF08        |
+| RF07          | O sistema deve enviar notificações push sobre pontos de coleta próximos ou promoções.                   | Notificações          | Sistema    | S          | Media        | RNF05        |
+| RF08          | Administradores devem cadastrar e atualizar pontos de coleta, com endereço, horários e materiais.       | Administração         | Backoffice | M          | Alta         | RNF08        |
+| RF09          | O sistema deve exibir um histórico de entregas e trocas de créditos.                                    | Histórico             | Sistema    | M          | Alta         | RNF04        |
+| RF10          | O sistema deve integrar com parceiros para validar créditos ou emitir vouchers.                         | Integração            | Sistema    | M          | Alta         | RNF08        |
 
 
 ***2.2. Requisitos Não Funcionais***
 ------------------------------------------------------------
-| Identificador | Descrição                                                                                      | Categoria     | Escopo  | Prioridade |
-|---------------|------------------------------------------------------------------------------------------------|---------------|---------|------------|
-| RNF01         | O sistema deve estar disponível 99,5% do tempo                                                 | Confiabilidade| Sistema | Alta       |
-| RNF02         | O sistema deve ser compatível com Android e iOS                                                | Portabilidade | Sistema | Alta       |
-| RNF03         | O app deve ajustar-se automaticamente a diferentes tamanhos de tela                            | Portabilidade | Sistema | Média      |
-| RNF04         | O sistema deve responder as requisições do usuário em até 2s em 95% das operações              | Eficiência    | Sistema | Alta       |
-| RNF05         | Notificações devem ser enviadas até 1 minuto após algum evento relevante                       | Eficiência    | Sistema | Média      |
-| RNF06         | O carregamento dos mapas de pontos de coleta deve ocorrer em até 10s                           | Eficiência    | Sistema | Alta       |
-| RNF07         | O sistema deve suportar ao menos 10 mil usuários simultâneos                                   | Escalabilidade| Sistema | Alta       |
-| RNF08         | Todo tráfego de dados deve ser criptografado usando HTTPS                                      | Segurança     | Sistema | Alta       |
-| RNF09         | Autenticação deve suportar login por redes sociais como Gmail, Facebook                        | Segurança     | Sistema | Alta       |
-| RNF10         | A interface deve ser intuitiva, permitindo localizar um ponto de coleta em no máximo 4 cliques | Usabilidade   | Sistema | Alta       |
+| Identificador | Descrição                                                                                      | Categoria     | Escopo  | Prioridade | Prioridade   | Relacional   |  
+|---------------|------------------------------------------------------------------------------------------------|---------------|---------|------------|--------------|--------------|
+| RNF01         | O sistema deve estar disponível 99,5% do tempo                                                 | Confiabilidade| Sistema | M          |  Alta        | RF04         |
+| RNF02         | O sistema deve ser compatível com Android e iOS                                                | Portabilidade | Sistema | M          |  Alta        | RF02         |
+| RNF03         | O app deve ajustar-se automaticamente a diferentes tamanhos de tela                            | Portabilidade | Sistema | S          |  media       | RF02         |
+| RNF04         | O sistema deve responder as requisições do usuário em até 2s em 95% das operações              | Eficiência    | Sistema | M          |  Alta        | RF03         |
+| RNF05         | Notificações devem ser enviadas até 1 minuto após algum evento relevante                       | Eficiência    | Sistema | S          |  Media       | RF07         |
+| RNF06         | O carregamento dos mapas de pontos de coleta deve ocorrer em até 10s                           | Eficiência    | Sistema | M          |  Alta        | RF02         |
+| RNF07         | O sistema deve suportar ao menos 10 mil usuários simultâneos                                   | Escalabilidade| Sistema | M          |  Alta        | RF03         |
+| RNF08         | Todo tráfego de dados deve ser criptografado usando HTTPS                                      | Segurança     | Sistema | M          |  Alta        | RF01         |
+| RNF09         | Autenticação deve suportar login por redes sociais como Gmail, Facebook                        | Segurança     | Sistema | M          |  Alta        | RF01         |
+| RNF10         | A interface deve ser intuitiva, permitindo localizar um ponto de coleta em no máximo 4 cliques | Usabilidade   | Sistema | M          |  Alta        | RF02         |
 
 
 **2.3. Perguntas**
