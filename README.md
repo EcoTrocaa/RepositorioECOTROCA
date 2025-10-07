@@ -98,13 +98,21 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 **2.3. Perguntas** ❓
 ------------------------------------------------------------
 > Você costuma separar lixo reciclável em casa ou no trabalho?
+
 > Com que frequência você recicla?
+
 > Você já utilizou algum app ou plataforma relacionada à reciclagem?
+
 > Você conhece pontos de coleta seletiva próximos da sua casa ou trabalho?
+
 > Você sente falta de informações sobre onde descartar corretamente os materiais recicláveis?
+
 > O que você acharia de um app que mostra pontos de coleta próximos a você?
+
 > Que tipo de recompensa você acharia interessante? (Ex: vouchers, produtos ecológicos, doações a ONGs, etc.)
+
 > O que você acha que tornaria um app como esse realmente útil ou diferente dos demais?
+
 > Você estaria disposto a compartilhar sua localização com o app para encontrar pontos de coleta próximos?
 
 **2.4. Entrevista**
