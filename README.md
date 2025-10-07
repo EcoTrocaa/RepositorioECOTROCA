@@ -25,9 +25,10 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 
 1.3. Descrição dos usuários
 ------------------------------------------------------------
-Cidadão (Reciclador):
+-Cidadão (Reciclador):
 Este é o usuário final primário, a pessoa física que realiza a separação de seu lixo reciclável e o transporta até um Ponto de Coleta credenciado. Sua principal motivação é ganhar recompensas.
-Parceiro (Estabelecimento de Troca):
+
+-Parceiro (Estabelecimento de Troca):
 Este grupo é composto por comércios, lojas, ou organizações não governamentais (ONGs) que participam da rede de recompensas. O papel do Parceiro é aceitar e validar os créditos acumulados pelo Cidadão em troca de seus produtos, serviços ou doações. 
 
 **Personas**  
