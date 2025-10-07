@@ -5,26 +5,36 @@
 Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw)
 
 ***1. Introdução***
----------------------------------------------------------
+
+---
+
 **Time EcoTroca**
 `Livia Almeida Rosa` 
 `Maria Vitoria Mendes Storel` 
 `Patricia Lacerda Golfete` 
 
 1.2. Nome do Sistema
-----------------------------------------------------------
+
+---
+
 ♻️EcoTroca
 
 1.3. Propósito do Sistema
-----------------------------------------------------------
+
+---
+
 📌Incentivar o publico e donos de empresas a realizar reciclagem de forma consciente, com o uso de um sistema de troca de recompensas pelas embalagens recicladas em pontos de coleta especificos
 
 1.2. Público Alvo
-------------------------------------------------------------
+
+---
+
 👉Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos
 
 1.3. Descrição dos usuários
-------------------------------------------------------------
+
+---
+
 -Cidadão (Reciclador):
 Este é o usuário final primário, a pessoa física que realiza a separação de seu lixo reciclável e o transporta até um Ponto de Coleta credenciado. Sua principal motivação é ganhar recompensas.
 
@@ -32,6 +42,7 @@ Este é o usuário final primário, a pessoa física que realiza a separação d
 Este grupo é composto por comércios, lojas, ou organizações não governamentais (ONGs) que participam da rede de recompensas. O papel do Parceiro é aceitar e validar os créditos acumulados pelo Cidadão em troca de seus produtos, serviços ou doações. 
 
 ---
+
 **Personas**  
 👉1. Ana Lúcia - A Cidadã Consciente
 Ana Lúcia tem 35 anos e é Analista Administrativa. Mora em uma área urbana e busca ativamente maneiras de reciclar seu lixo, mas enfrenta a dificuldade de encontrar pontos de coleta com horários convenientes. Seu principal objetivo no EcoTroca é encontrar o ponto mais próximo de forma rápida (RF02/RNF06) e acumular créditos para trocar por vouchers em supermercados (RF06). Para ela, é crucial que a interface seja intuitiva e que a localização exija no máximo quatro cliques (RNF10).
@@ -61,6 +72,7 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 📖 **Cenário: Depois**  
 👉 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>  
 
+---
 
 2. Documentos gerais no repositório (Aula 19/09/25)
 
@@ -95,9 +107,11 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 | RNF09         | Autenticação deve suportar login por redes sociais como Gmail, Facebook                        | Segurança     | Sistema | M          |  Alta        | RF01         |
 | RNF10         | A interface deve ser intuitiva, permitindo localizar um ponto de coleta em no máximo 4 cliques | Usabilidade   | Sistema | M          |  Alta        | RF02         |
 
+---
 
 **2.3. Perguntas** ❓
-------------------------------------------------------------
+
+---
 > Você costuma separar lixo reciclável em casa ou no trabalho?
 
 > Com que frequência você recicla?
@@ -117,27 +131,35 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 > Você estaria disposto a compartilhar sua localização com o app para encontrar pontos de coleta próximos?
 
 **2.4. Entrevista**
-------------------------------------------------------------
+
+---
+
 <Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>
 
 **2.5. Histórias do Usuário**
-------------------------------------------------------------
+
+---
 <Imagem, arquivo (PDF), link com as Histórias de Usuário.>
 
 **2.6. Diagramas de Caso de Uso e Especificações**
-------------------------------------------------------------
+
+---
+
 <Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>
 
 **2.7. Diagramas de Atividades**
-------------------------------------------------------------
+
+---
 <Imagem, arquivo (PDF), link com Diagrama de Atividades.>
 
 **2.8. Protótipos**
-------------------------------------------------------------
+
+---
 <Imagem, arquivo (PDF), link com Protótipo.>
 
 **Referências**
-------------------------------------------------------------
+
+---
 <Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>
 
 [1] “Glossário da USina”, <id_doc glossário>, Versão <versão>. Localização: <localização>.
