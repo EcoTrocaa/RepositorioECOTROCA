@@ -31,9 +31,11 @@ Parceiro (Estabelecimento de Troca):
 Este grupo é composto por comércios, lojas, ou organizações não governamentais (ONGs) que participam da rede de recompensas. O papel do Parceiro é aceitar e validar os créditos acumulados pelo Cidadão em troca de seus produtos, serviços ou doações. 
 
 **Personas**  
-👉
+👉1. Ana Lúcia - A Cidadã Consciente
+Ana Lúcia tem 35 anos e é Analista Administrativa. Mora em uma área urbana e busca ativamente maneiras de reciclar seu lixo, mas enfrenta a dificuldade de encontrar pontos de coleta com horários convenientes. Seu principal objetivo no EcoTroca é encontrar o ponto mais próximo de forma rápida (RF02/RNF06) e acumular créditos para trocar por vouchers em supermercados (RF06). Para ela, é crucial que a interface seja intuitiva e que a localização exija no máximo quatro cliques (RNF10).
 
-👉 
+👉 2. João Silva - O Empresário Sustentável
+João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. Ele busca iniciativas sustentáveis para diferenciar seu negócio. Seu objetivo é integrar o sistema de validação de pontos (RF10) no caixa de sua loja de forma segura e eficiente. Ele exige que o processo de validação de créditos seja instantâneo (RNF04) e que a comunicação do sistema com o Parceiro seja totalmente criptografada (RNF08) para evitar qualquer tipo de fraude e garantir a confiança na parceria.
 
 ---
 
