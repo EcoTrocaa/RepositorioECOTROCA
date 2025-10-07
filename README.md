@@ -13,27 +13,23 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 `Maria Vitoria Mendes Storel` 
 `Patricia Lacerda Golfete` 
 
-1.2. Nome do Sistema
-
 ---
 
+1.2. Nome do Sistema
 ♻️EcoTroca
 
-1.3. Propósito do Sistema
-
 ---
+1.3. Propósito do Sistema
 
 📌Incentivar o publico e donos de empresas a realizar reciclagem de forma consciente, com o uso de um sistema de troca de recompensas pelas embalagens recicladas em pontos de coleta especificos
 
-1.2. Público Alvo
-
 ---
+1.2. Público Alvo
 
 👉Público geral, principalmente os mais envolvidos em questões ecológicas, e empresas com ideais ecológicos
 
-1.3. Descrição dos usuários
-
 ---
+1.3. Descrição dos usuários
 
 -Cidadão (Reciclador):
 Este é o usuário final primário, a pessoa física que realiza a separação de seu lixo reciclável e o transporta até um Ponto de Coleta credenciado. Sua principal motivação é ganhar recompensas.
@@ -110,8 +106,6 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 ---
 
 **2.3. Perguntas** ❓
-
----
 > Você costuma separar lixo reciclável em casa ou no trabalho?
 
 > Com que frequência você recicla?
@@ -130,36 +124,36 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 
 > Você estaria disposto a compartilhar sua localização com o app para encontrar pontos de coleta próximos?
 
-**2.4. Entrevista**
-
 ---
+
+**2.4. Entrevista**
 
 <Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>
 
+---
 **2.5. Histórias do Usuário**
 
----
 <Imagem, arquivo (PDF), link com as Histórias de Usuário.>
 
+---
 **2.6. Diagramas de Caso de Uso e Especificações**
 
----
 
 <Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>
 
+---
 **2.7. Diagramas de Atividades**
 
----
+
 <Imagem, arquivo (PDF), link com Diagrama de Atividades.>
 
-**2.8. Protótipos**
-
 ---
+**2.8. Protótipos**
 <Imagem, arquivo (PDF), link com Protótipo.>
 
+---
 **Referências**
 
----
 <Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>
 
 [1] “Glossário da USina”, <id_doc glossário>, Versão <versão>. Localização: <localização>.
