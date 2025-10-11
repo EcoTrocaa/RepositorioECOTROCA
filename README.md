@@ -82,7 +82,7 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 | RF04          | O sistema deve calcular automaticamente créditos gerados pelo tipo e quantidade de material.            | Créditos              | Sistema    | M          | Alta         | RNF04        |
 | RF05          | O usuário deve acompanhar o saldo de créditos em tempo real.                                            | Créditos              | Sistema    | M          | Alta         | RNF04        |
 | RF06          | O sistema deve permitir a troca de créditos por recompensas, como vouchers ou doações.                  | Recompensas           | Sistema    | M          | Alta         | RNF08        |
-| RF07          | O sistema deve enviar notificações push sobre pontos de coleta próximos ou promoções.                   | Notificações          | Sistema    | S          | Media        | RNF05        |
+| RF07          | O sistema deve enviar notificações/promoções sobre pontos de coleta próximos da sua localização atual   | Notificações          | Sistema    | S          | Media        | RNF05        |
 | RF08          | Administradores devem cadastrar e atualizar pontos de coleta, com endereço, horários e materiais.       | Administração         | Backoffice | M          | Alta         | RNF08        |
 | RF09          | O sistema deve exibir um histórico de entregas e trocas de créditos.                                    | Histórico             | Sistema    | M          | Alta         | RNF04        |
 | RF10          | O sistema deve integrar com parceiros para validar créditos ou emitir vouchers.                         | Integração            | Sistema    | M          | Alta         | RNF08        |
