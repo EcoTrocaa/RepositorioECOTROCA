@@ -50,15 +50,30 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 
 **Análise da situação atual (antes da solução):**  
 ✔️ O que as pessoas fazem?  
+Atualmente, muitas pessoas até têm o hábito de separar materiais recicláveis, mas encontram dificuldade em localizar pontos de coleta adequados ou em horários acessíveis.
+Além disso, falta incentivo direto para manter o hábito de reciclar, o que faz com que parte dos resíduos recicláveis acabe sendo descartada de forma incorreta.
 ✔️ Quais os artefatos envolvidos?  
+- sacolas, caixas e lixeiras de reciclagem doméstica.
+- Locais físicos de coleta (pontos verdes, cooperativas, ecopontos).
 ✔️ O que elas precisam saber?  
+As pessoas precisam entender como e onde descartar corretamente seus resíduos, além de quais tipos de materiais são aceitos em cada ponto de coleta.
+Empresas precisam compreender os benefícios ambientais e de imagem ao participar de programas de reciclagem, e como se engajar de forma prática e segura.
 
 ---
 
 **Análise das tarefas (depois da solução):**  
 ✔️ O que as pessoas fazem?  
-✔️ Quais os artefatos envolvidos?  
-✔️ O que elas precisam saber?  
+Após a implantação do EcoTroca, a vida dos usuários se torna mais prática, recompensadora e sustentável.
+O cidadão agora consegue reciclar com propósito: ele separa seus resíduos, leva até um ponto de coleta credenciado e, em poucos cliques no aplicativo, acumula créditos que podem ser trocados por descontos, produtos ou doações.
+A reciclagem deixa de ser apenas um dever ambiental e se transforma em um hábito incentivado e recompensado.
+✔️ Quais os artefatos envolvidos? 
+- Aplicativo ou sistema web EcoTroca.
+- Sistema de pontuação e recompensas digitais.
+- Mapas interativos para localizar pontos de coleta.
+✔️ O que elas precisam saber?
+Os cidadãos aprendem que reciclar pode gerar benefícios reais, tanto para o meio ambiente quanto para seu próprio dia a dia.
+Eles entendem como cadastrar-se, registrar entregas e usar seus créditos de forma simples e segura.
+Já os parceiros passam a compreender como a sustentabilidade pode gerar valor ao negócio, aprendendo a gerenciar trocas e acompanhar o impacto ecológico das suas ações.
 
 ---
 
