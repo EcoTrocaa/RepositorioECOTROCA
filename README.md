@@ -49,6 +49,7 @@ João Silva, 48 anos, é dono de uma padaria e representa o usuário Parceiro. E
 ---
 
 **Análise da situação atual (antes da solução):**  
+
 ✔️ O que as pessoas fazem?  
 Atualmente, muitas pessoas até têm o hábito de separar materiais recicláveis, mas encontram dificuldade em localizar pontos de coleta adequados ou em horários acessíveis.
 Além disso, falta incentivo direto para manter o hábito de reciclar, o que faz com que parte dos resíduos recicláveis acabe sendo descartada de forma incorreta.
@@ -64,6 +65,7 @@ Empresas precisam compreender os benefícios ambientais e de imagem ao participa
 ---
 
 **Análise das tarefas (depois da solução):**  
+
 ✔️ O que as pessoas fazem?  
 Após a implantação do EcoTroca, a vida dos usuários se torna mais prática, recompensadora e sustentável.
 O cidadão agora consegue reciclar com propósito: ele separa seus resíduos, leva até um ponto de coleta credenciado e, em poucos cliques no aplicativo, acumula créditos que podem ser trocados por descontos, produtos ou doações.
