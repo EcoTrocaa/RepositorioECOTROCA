@@ -166,7 +166,25 @@ Agora, os cidadãos podem localizar pontos de coleta facilmente pelo aplicativo,
 ---
 **2.5. Histórias do Usuário**
 
-<Imagem, arquivo (PDF), link com as Histórias de Usuário.>
+1. Como uma pessoa interessada em usar o sistema, eu quero me cadastrar usando nome, e-mail e senha ou via login social (Google/Facebook), para que eu possa acessar a plataforma de forma segura e personalizada.
+
+2. Como um usuário logado, eu quero visualizar no mapa os pontos de coleta próximos com endereço, horário e materiais aceitos, para que eu possa planejar onde entregar meus materiais recicláveis.
+
+3. Como um usuário, eu quero registrar a entrega de materiais recicláveis em um ponto de coleta, para que eu possa acumular créditos pela minha contribuição.
+
+4. Como um usuário, eu quero que o sistema calcule automaticamente os créditos com base no tipo e quantidade de material entregue, para que eu receba uma recompensa justa.
+
+5. Como um usuário, eu quero ver meu saldo de créditos atualizado em tempo real, para que eu saiba quanto já acumulei e quantos posso trocar.
+
+6. Como um usuário, eu quero trocar meus créditos por recompensas como vouchers ou doações, para que eu possa usufruir dos benefícios das minhas ações sustentáveis.
+
+7. Como um usuário, eu quero receber notificações sobre promoções ou novos pontos de coleta próximos da minha localização, para que eu aproveite oportunidades próximas de mim.
+
+8. Como um administrador, eu quero cadastrar e atualizar pontos de coleta com endereço, horário e materiais aceitos, para que os usuários sempre tenham acesso a informações corretas.
+
+9. Como um usuário, eu quero visualizar um histórico com minhas entregas e trocas de créditos, para que eu possa acompanhar meu impacto e minhas atividades no sistema.
+
+10. Como um usuário, eu quero que o sistema valide meus créditos com parceiros e emita vouchers automaticamente, para que eu possa utilizar minhas recompensas com facilidade e segurança.
 
 ---
 **2.6. Diagramas de Caso de Uso e Especificações**
