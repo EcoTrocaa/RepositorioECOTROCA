@@ -84,10 +84,23 @@ Já os parceiros passam a compreender como a sustentabilidade pode gerar valor a
 ---
 
 📖 **Cenário: Antes**  
-👉 <Preencher com o cenário idealizado antes da aplicação do seu sistema.>  
+👉 Antes da criação do EcoTroca, a reciclagem acontecia de forma desorganizada e pouco incentivada.
+Muitas pessoas até separavam seus resíduos, mas não sabiam onde descartar corretamente ou não encontravam pontos de coleta próximos.
+Sem recompensas ou informações acessíveis, o interesse em reciclar acabava diminuindo.
+
+🏭 As empresas que desejavam adotar práticas sustentáveis não possuíam um sistema que conectasse seus negócios à comunidade recicladora, tornando difícil participar de iniciativas ecológicas.
+
+💭 O resultado era um cenário com baixo engajamento, pouca visibilidade dos pontos de coleta e pouca valorização de quem realmente se preocupa com o meio ambiente.
 
 📖 **Cenário: Depois**  
-👉 <Preencher com o cenário idealizado depois da aplicação do seu sistema.>  
+👉Com o EcoTroca, tudo muda!
+Agora, os cidadãos podem localizar pontos de coleta facilmente pelo aplicativo, registrar suas entregas e acumular créditos que podem ser trocados por recompensas ou doações.
+
+💚 A reciclagem se torna simples, digital e recompensadora, transformando um hábito ecológico em uma experiência positiva e motivadora.
+
+🏪 Já os parceiros (empresas e comércios) validam os créditos em tempo real, ganham visibilidade e fortalecem sua imagem sustentável.
+
+🌎 O EcoTroca cria uma rede colaborativa entre pessoas e negócios, onde reciclar gera valor, impacto e consciência ambiental.
 
 ---
 
