@@ -41,7 +41,7 @@ Este grupo é composto por comércios, lojas, ou organizações não governament
 
 **Personas**  
 
-<img width="1113" height="1114" alt="image" src="https://github.com/user-attachments/assets/84d5e301-7333-40f4-bb0f-c783bd032bc6" />
+![Persona 2 Gerente do ponto de coleta](https://github.com/user-attachments/assets/0e3ba19d-67fb-45bd-a031-aede8acbae8f)
 
 
 👉1. Ana Lúcia - A Cidadã Consciente
