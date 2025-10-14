@@ -202,7 +202,7 @@ Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzs
 
 ---
 **2.8. Protótipos**
-<Imagem, arquivo (PDF), link com Protótipo.>
+https://ninjamock.com/s/JCQ4QZx
 
 ---
 **Referências**
