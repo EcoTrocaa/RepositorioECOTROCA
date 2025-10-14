@@ -153,15 +153,17 @@ Agora, os cidadãos podem localizar pontos de coleta facilmente pelo aplicativo,
 
 > Que tipo de recompensa você acharia interessante? (Ex: vouchers, produtos ecológicos, doações a ONGs, etc.)
 
-> O que você acha que tornaria um app como esse realmente útil ou diferente dos demais?
-
 > Você estaria disposto a compartilhar sua localização com o app para encontrar pontos de coleta próximos?
+
+> De que forma sua empresa acredita que o EcoTroca pode fortalecer a imagem sustentável do seu negócio e atrair novos clientes conscientes?
+
+> Como você vê o impacto do EcoTroca na sua comunidade e na conscientização ambiental dos seus clientes?
 
 ---
 
 **2.4. Entrevista**
 
-<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>
+Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzsonzc
 
 ---
 **2.5. Histórias do Usuário**
