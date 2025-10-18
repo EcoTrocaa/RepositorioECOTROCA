@@ -44,7 +44,7 @@ Este grupo é composto por comércios, lojas, ou organizações não governament
 ![Persona 2 Gerente do ponto de coleta](https://github.com/user-attachments/assets/0e3ba19d-67fb-45bd-a031-aede8acbae8f)
 
 
-👉1. Ana Lúcia - A Cidadã Consciente
+👉1. Luciana - A Cidadã Consciente
 Ana Lúcia tem 35 anos e é Analista Administrativa. Mora em uma área urbana e busca ativamente maneiras de reciclar seu lixo, mas enfrenta a dificuldade de encontrar pontos de coleta com horários convenientes. Seu principal objetivo no EcoTroca é encontrar o ponto mais próximo de forma rápida (RF02/RNF06) e acumular créditos para trocar por vouchers em supermercados (RF06). Para ela, é crucial que a interface seja intuitiva e que a localização exija no máximo quatro cliques (RNF10).
 
 <img width="1556" height="1566" alt="image" src="https://github.com/user-attachments/assets/e7c55685-f6ee-4cd6-88bb-dffe7edd8d8c" />
