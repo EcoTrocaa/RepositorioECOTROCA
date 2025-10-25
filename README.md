@@ -47,7 +47,7 @@ Este grupo é composto por comércios, lojas, ou organizações não governament
 👉1. Luciana - A Cidadã Consciente
 Ana Lúcia tem 35 anos e é Analista Administrativa. Mora em uma área urbana e busca ativamente maneiras de reciclar seu lixo, mas enfrenta a dificuldade de encontrar pontos de coleta com horários convenientes. Seu principal objetivo no EcoTroca é encontrar o ponto mais próximo de forma rápida (RF02/RNF06) e acumular créditos para trocar por vouchers em supermercados (RF06). Para ela, é crucial que a interface seja intuitiva e que a localização exija no máximo quatro cliques (RNF10).
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/e7c55685-f6ee-4cd6-88bb-dffe7edd8d8c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e7c55685-f6ee-4cd6-88bb-dffe7edd8d8c" />
 
 
 👉 2. João Silva - O Empresário Sustentável
@@ -198,12 +198,12 @@ Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzs
 ---
 **2.6. Diagramas de Caso de Uso e Especificações**
 
-<img width="1078" height="830s" alt="Diagrama em branco" src="https://github.com/user-attachments/assets/b3bb7c03-89c4-4dd9-b273-c896bc137480" />
+<img width="400" height="400" alt="Diagrama em branco" src="https://github.com/user-attachments/assets/b3bb7c03-89c4-4dd9-b273-c896bc137480" />
 
 ---
 **2.7. Diagramas de Atividades**
 
-<img width="1078" height="830" alt="image" src="https://github.com/user-attachments/assets/e99ddb87-1e41-46ca-86cc-0061b8f28fd4" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e99ddb87-1e41-46ca-86cc-0061b8f28fd4" />
 
 
 ---
