@@ -198,8 +198,7 @@ Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzs
 ---
 **2.6. Diagramas de Caso de Uso e Especificações**
 
-
-<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>
+<img width="1078" height="830s" alt="Diagrama em branco" src="https://github.com/user-attachments/assets/b3bb7c03-89c4-4dd9-b273-c896bc137480" />
 
 ---
 **2.7. Diagramas de Atividades**
