@@ -204,8 +204,8 @@ Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzs
 ---
 **2.7. Diagramas de Atividades**
 
+<img width="1078" height="830" alt="image" src="https://github.com/user-attachments/assets/e99ddb87-1e41-46ca-86cc-0061b8f28fd4" />
 
-<Imagem, arquivo (PDF), link com Diagrama de Atividades.>
 
 ---
 **2.8. Protótipos**
