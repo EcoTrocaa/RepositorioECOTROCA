@@ -42,7 +42,8 @@ Este grupo é composto por comércios, lojas, ou organizações não governament
 **Personas**  
 
 
-<img width="400" height="400" alt="Persona 2 Gerente do ponto de coleta (1)" src="https://github.com/user-attachments/assets/065c9a45-22bd-4ead-80e3-f1994fcd016c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/325d7802-f831-48d4-9c6d-333ae651daad" />
+
 
 
 👉1. Luciana - A Cidadã Consciente
