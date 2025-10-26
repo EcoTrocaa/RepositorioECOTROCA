@@ -198,7 +198,7 @@ Link Drive: https://drive.google.com/drive/folders/1mqItdtni9iOf3Lpj6ZLofCko6Jzs
 ---
 **2.6. Diagramas de Caso de Uso e Especificações**
 
-<Descrição dos principais Casos de Uso: https://docs.google.com/document/d/1CdKKk2AichYENsTETzKRR9Cs9792hcFVkVJLKDEpzZw/edit?usp=sharing>
+Descrição dos principais Casos de Uso: https://docs.google.com/document/d/1CdKKk2AichYENsTETzKRR9Cs9792hcFVkVJLKDEpzZw/edit?usp=sharing
 
 <img width="400" height="400" alt="Diagrama em branco" src="https://github.com/user-attachments/assets/b3bb7c03-89c4-4dd9-b273-c896bc137480" />
 
