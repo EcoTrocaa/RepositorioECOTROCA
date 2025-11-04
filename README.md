@@ -1,3 +1,5 @@
+<img width="135" height="97" alt="image" src="https://github.com/user-attachments/assets/284735f3-35f8-4f64-9e44-a06839ee3c49" />
+
  # ♻️🌱🌍 **ECOTROCA** 🌍🌱♻️
 
 > Projeto Disciplina: Requisitos de Software
