@@ -1,5 +1,12 @@
 <img width="135" height="97" alt="image" src="https://github.com/user-attachments/assets/284735f3-35f8-4f64-9e44-a06839ee3c49"/>
 
+![ODS 8](https://img.shields.io/badge/ODS%208-Trabalho%20Decente%20e%20Crescimento%20Econômico-006400)
+![ODS 9](https://img.shields.io/badge/ODS%209-Indústria%2C%20Inovação%20e%20Infraestrutura-228B22)
+![ODS 11](https://img.shields.io/badge/ODS%2011-Cidades%20e%20Comunidades%20Sustentáveis-32CD32)
+![ODS 12](https://img.shields.io/badge/ODS%2012-Consumo%20e%20Produção%20Responsáveis-006400)
+![ODS 13](https://img.shields.io/badge/ODS%2013-Ação%20Contra%20a%20Mudança%20Global%20do%20Clima-228B22)
+
+
  # ♻️🌱🌍 **ECOTROCA** 🌍🌱♻️
 
 > Projeto Disciplina: Requisitos de Software
