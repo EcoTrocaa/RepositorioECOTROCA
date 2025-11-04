@@ -1,3 +1,4 @@
+<div align="center">
 <img width="135" height="97" alt="image" src="https://github.com/user-attachments/assets/284735f3-35f8-4f64-9e44-a06839ee3c49"/>
 
 ![ODS 8](https://img.shields.io/badge/ODS%208-Trabalho%20Decente%20e%20Crescimento%20Econômico-006400)
@@ -13,6 +14,8 @@
 > UTFPR - Campus Cornélio Procópio.
 
 [Link do Padlet](https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw)
+
+</div>
 
 ***1. Introdução***
 
