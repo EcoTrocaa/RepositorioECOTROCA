@@ -236,6 +236,5 @@ Agora, os cidadãos podem localizar pontos de coleta facilmente pelo aplicativo,
 ---
 **Referências**
 
-<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>
-
-[1] “Glossário da USina”, <id_doc glossário>, Versão <versão>. Localização: <localização>.
+[1] “Mermaid Chart”, Plataforma Web, Versão N/A. Localização: https://www.mermaidchart.com/landing
+[2] “Lucidchart”, Plataforma Web, Versão N/A. Localização: https://www.lucidchart.com/pages/pt/landing
