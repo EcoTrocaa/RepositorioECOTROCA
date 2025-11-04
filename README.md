@@ -10,8 +10,8 @@ Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](
 
 **Time EcoTroca**
 [`Livia Almeida Rosa`](https://github.com/LiviaRosaa) 
-`Maria Vitoria Mendes Storel` 
-`Patricia Lacerda Golfete` 
+[`Maria Vitoria Mendes Storel`](https://github.com/m4riavit0ria) 
+[`Patricia Lacerda Golfete`](https://github.com/patriciagolfete) 
 
 ---
 
