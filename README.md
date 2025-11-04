@@ -8,8 +8,6 @@
 ![ODS 13](https://img.shields.io/badge/ODS%2013-Ação%20Contra%20a%20Mudança%20Global%20do%20Clima-228B22)
 
 
- # ♻️🌱🌍 **ECOTROCA** 🌍🌱♻️
-
 > Projeto Disciplina: Requisitos de Software
 > UTFPR - Campus Cornélio Procópio.
 
