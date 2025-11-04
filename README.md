@@ -214,6 +214,13 @@ Agora, os cidadãos podem localizar pontos de coleta facilmente pelo aplicativo,
 
 
 ---
+**2.7. Diagramas de Classe**
+
+<img width="400" height="400" alt="Untitled diagram-2025-11-04-005248" src="https://github.com/user-attachments/assets/d9e19cdf-56e8-421d-bcc0-921867391449" />
+
+
+
+---
 **2.8. Protótipos**
 [Protótipos de tela](https://ninjamock.com/s/JCQ4QZx)
 
