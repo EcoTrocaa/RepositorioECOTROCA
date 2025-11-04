@@ -2,7 +2,8 @@
 
 > Projeto Disciplina: Requisitos de Software
 > UTFPR - Campus Cornélio Procópio.
-Link do Padlet: [https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw](https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw)
+
+[Link do Padlet](https://padlet.com/liviaalmeidarosa20/kanban-3fcf29ccs6wdwniw)
 
 ***1. Introdução***
 
