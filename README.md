@@ -1,5 +1,6 @@
 <div align="center">
-<img width="170" height="135" alt="image" src="https://github.com/user-attachments/assets/284735f3-35f8-4f64-9e44-a06839ee3c49"/>
+<img width="300" height="300" alt="Design_sem_nome-removebg-preview" src="https://github.com/user-attachments/assets/0305d301-ccea-4424-b9ff-e1cd5dffe483" />
+
 
 ![ODS 8](https://img.shields.io/badge/ODS%208-Trabalho%20Decente%20e%20Crescimento%20Econômico-006400)
 ![ODS 9](https://img.shields.io/badge/ODS%209-Indústria%2C%20Inovação%20e%20Infraestrutura-006400)
